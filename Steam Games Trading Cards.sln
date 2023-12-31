@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steam Games Trading Cards", "Steam Games Trading Cards\Steam Games Trading Cards.csproj", "{5AB8CDBB-0B71-4F0A-8E75-E91C15B3AC48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AB8CDBB-0B71-4F0A-8E75-E91C15B3AC48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB8CDBB-0B71-4F0A-8E75-E91C15B3AC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB8CDBB-0B71-4F0A-8E75-E91C15B3AC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB8CDBB-0B71-4F0A-8E75-E91C15B3AC48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD3FB9AE-EC48-4818-BA3A-69E4777576A0}
+	EndGlobalSection
+EndGlobal
