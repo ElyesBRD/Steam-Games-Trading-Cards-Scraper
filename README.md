@@ -1,5 +1,8 @@
 # Steam Games Trading Cards
-u enter the name of the game and the program search if it has steam trading cards and prints the links for you
-open the code and start excute it,
-enter the game name and wait for the links to show up for the game's trading cards
-NOTE: this project is not up to date means it may not function or maybe it will result in errors along the excution
+# What is it
+The repo provides a way for searching and scraping steam games trading cards if it exists.
+
+# How to use
+After executing the code, enter the desired game name and wait for the code to start searching and scraping the links for the trading cards only if it exists.
+
+NOTE: this project is not up to date, means it may not function or it may result in errors along the execution
